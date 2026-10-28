@@ -1,0 +1,5 @@
+# Checklist: {PROGRAM_TYPE}
+
+{DESCRIPTION}
+
+{ITEM_LIST}

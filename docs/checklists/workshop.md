@@ -1,0 +1,116 @@
+# Checklist: Half-day workshop
+
+## Checklist Items
+
+### Program Goals
+* Define the program goals at the start [View Details &raquo;](../goals.md#WORKSHOP_HALF_GOL-01)
+* Decide how you will measure success [View Details &raquo;](../goals.md#WORKSHOP_HALF_GOL-02)
+### Funding
+* Draft a budget by category before committing to an activity type [View Details &raquo;](../funding.md#WORKSHOP_HALF_FUN-01)
+* Start by finding ways to run the activity with the money and resources you already have [View Details &raquo;](../funding.md#WORKSHOP_HALF_FUN-02)
+* List potential funding sources and check each one [View Details &raquo;](../funding.md#WORKSHOP_HALF_FUN-03)
+* Ask faculty about adding your activity to their grant's broader impacts [View Details &raquo;](../funding.md#WORKSHOP_HALF_FUN-04)
+* Check with the development office and sponsored projects office before approaching donors or funders [View Details &raquo;](../funding.md#WORKSHOP_HALF_FUN-05)
+* Check industry partners' giving or community pages to see what they already support [View Details &raquo;](../funding.md#WORKSHOP_HALF_FUN-06)
+* Decide whether to charge a fee, and plan scholarships if you do [View Details &raquo;](../funding.md#WORKSHOP_HALF_FUN-07)
+* Consider a cost-recovery fee for items such as lunch and operating costs [View Details &raquo;](../funding.md#WORKSHOP_HALF_FUN-08)
+* Decide how staff, teachers, and student workers will be paid, if at all [View Details &raquo;](../funding.md#WORKSHOP_HALF_FUN-09)
+* Consider funding or compensating K-12 teachers who contribute [View Details &raquo;](../funding.md#WORKSHOP_HALF_FUN-10)
+* Outline a way to track costs for later reporting [View Details &raquo;](../funding.md#WORKSHOP_HALF_FUN-12)
+### Staffing
+* Name one lead organizer and one point of contact [View Details &raquo;](../staffing.md#WORKSHOP_HALF_STF-01)
+* Define roles: instructors, helpers, chaperones, logistics support [View Details &raquo;](../staffing.md#WORKSHOP_HALF_STF-02)
+* Ask which staff and volunteers are interested before assigning outreach work [View Details &raquo;](../staffing.md#WORKSHOP_HALF_STF-03)
+* Recruit grad students, undergraduates, and other campus staff as helpers or guest speakers [View Details &raquo;](../staffing.md#WORKSHOP_HALF_STF-04)
+* Plan supervision ratios and ask your youth protection office what they require [View Details &raquo;](../staffing.md#WORKSHOP_HALF_STF-05)
+* Plan for at least two trained staff at all times [View Details &raquo;](../staffing.md#WORKSHOP_HALF_STF-06)
+* Invite local K-12 teachers to help [View Details &raquo;](../staffing.md#WORKSHOP_HALF_STF-07)
+* Consider a dedicated events person or professional to handle logistics [View Details &raquo;](../staffing.md#WORKSHOP_HALF_STF-09)
+* Have a plan B for staffing surprises [View Details &raquo;](../staffing.md#WORKSHOP_HALF_STF-10)
+### Topics for educational activities
+* Choose hands-on, interactive activities over lecture [View Details &raquo;](../topics.md#WORKSHOP_HALF_TOP-01)
+* Set a learning goal for each activity, then fit the topic to it [View Details &raquo;](../topics.md#WORKSHOP_HALF_TOP-02)
+* Build the curriculum around a faculty or staff member who is excited about the topic [View Details &raquo;](../topics.md#WORKSHOP_HALF_TOP-03)
+* Adapt existing lectures and materials for high schoolers [View Details &raquo;](../topics.md#WORKSHOP_HALF_TOP-04)
+* If no faculty member is teaching, ask one to suggest, teach, or check your materials [View Details &raquo;](../topics.md#WORKSHOP_HALF_TOP-05)
+* Check the age and skill range of participants [View Details &raquo;](../topics.md#WORKSHOP_HALF_TOP-06)
+* Build in breaks and avoid overfilling the schedule [View Details &raquo;](../topics.md#WORKSHOP_HALF_TOP-07)
+* Plan how students will get computer access [View Details &raquo;](../topics.md#WORKSHOP_HALF_TOP-08)
+* Use group projects if students will be on internet-connected computers [View Details &raquo;](../topics.md#WORKSHOP_HALF_TOP-09)
+* Connect what students learn to careers [View Details &raquo;](../topics.md#WORKSHOP_HALF_TOP-10)
+* Plan a showcase at the end of the program [View Details &raquo;](../topics.md#WORKSHOP_HALF_TOP-11)
+* Let students take something home when possible [View Details &raquo;](../topics.md#WORKSHOP_HALF_TOP-13)
+### Partnerships with campus or industry
+* Ask whether a similar program already exists on campus before starting from scratch [View Details &raquo;](../partnerships.md#WORKSHOP_HALF_PAR-01)
+* Talk to other people running K-12 programs on your campus [View Details &raquo;](../partnerships.md#WORKSHOP_HALF_PAR-02)
+* Find domain experts on campus [View Details &raquo;](../partnerships.md#WORKSHOP_HALF_PAR-03)
+* Identify a district or school contact [View Details &raquo;](../partnerships.md#WORKSHOP_HALF_PAR-04)
+* Reach out to local K-12 teachers [View Details &raquo;](../partnerships.md#WORKSHOP_HALF_PAR-05)
+* Offer teachers something in return [View Details &raquo;](../partnerships.md#WORKSHOP_HALF_PAR-06)
+* Find local companies and alumni [View Details &raquo;](../partnerships.md#WORKSHOP_HALF_PAR-07)
+* Explore state or national programs you can join [View Details &raquo;](../partnerships.md#WORKSHOP_HALF_PAR-08)
+* Connect with organizations that serve specific student groups [View Details &raquo;](../partnerships.md#WORKSHOP_HALF_PAR-09)
+* Choose partners with aligned goals [View Details &raquo;](../partnerships.md#WORKSHOP_HALF_PAR-10)
+### Buy-in from administration
+* Choose a pitch that matches your audience [View Details &raquo;](../buyin.md#WORKSHOP_HALF_BUY-01)
+* Check whether outreach fits your unit's mission or strategic plan [View Details &raquo;](../buyin.md#WORKSHOP_HALF_BUY-02)
+* Identify who needs to approve or be informed [View Details &raquo;](../buyin.md#WORKSHOP_HALF_BUY-03)
+* Plan for common concerns: money and staff time [View Details &raquo;](../buyin.md#WORKSHOP_HALF_BUY-04)
+* Collect data from early events to use in later requests [View Details &raquo;](../buyin.md#WORKSHOP_HALF_BUY-05)
+### Logistics
+* Find the existing campus offices that already support youth programs [View Details &raquo;](../logistics.md#WORKSHOP_HALF_LOG-01)
+* Ask each office what to ask, what to watch for, and how far ahead to start [View Details &raquo;](../logistics.md#WORKSHOP_HALF_LOG-03)
+* Build a timeline that works backward from the event date [View Details &raquo;](../logistics.md#WORKSHOP_HALF_LOG-04)
+* Reserve rooms and know how students will get into buildings [View Details &raquo;](../logistics.md#WORKSHOP_HALF_LOG-05)
+* Arrange computers, equipment, and internet [View Details &raquo;](../logistics.md#WORKSHOP_HALF_LOG-06)
+* Choose hours that work for families [View Details &raquo;](../logistics.md#WORKSHOP_HALF_LOG-07)
+* Choose a date that avoids conflicts [View Details &raquo;](../logistics.md#WORKSHOP_HALF_LOG-08)
+* Meals: decide between dining hall, catering, or packed lunches [View Details &raquo;](../logistics.md#WORKSHOP_HALF_LOG-11)
+* Meals: collect dietary and allergy information [View Details &raquo;](../logistics.md#WORKSHOP_HALF_LOG-12)
+* Transportation: decide who gets students to and from the site [View Details &raquo;](../logistics.md#WORKSHOP_HALF_LOG-13)
+* Transportation: book buses early if you need them [View Details &raquo;](../logistics.md#WORKSHOP_HALF_LOG-14)
+* Check the campus rules for payments and cash [View Details &raquo;](../logistics.md#WORKSHOP_HALF_LOG-15)
+* Set up registration or applications and a way to select students [View Details &raquo;](../logistics.md#WORKSHOP_HALF_LOG-17)
+* Write a plan B and emergency protocols [View Details &raquo;](../logistics.md#WORKSHOP_HALF_LOG-18)
+### Policies
+* Contact your youth protection office early [View Details &raquo;](../policies.md#WORKSHOP_HALF_POL-01)
+* Search with these terms: youth protection, minors on campus, university programs with minors [View Details &raquo;](../policies.md#WORKSHOP_HALF_POL-02)
+* Read your campus minors on campus policy and forms [View Details &raquo;](../policies.md#WORKSHOP_HALF_POL-03)
+* Check IRB requirements [View Details &raquo;](../policies.md#WORKSHOP_HALF_POL-04)
+* Ask your IRB whether a student evaluation form counts as research [View Details &raquo;](../policies.md#WORKSHOP_HALF_POL-05)
+* Get parental permission before the event [View Details &raquo;](../policies.md#WORKSHOP_HALF_POL-06)
+* Use a code of conduct that students and parents sign [View Details &raquo;](../policies.md#WORKSHOP_HALF_POL-07)
+* Keep contact information and medical needs for each student [View Details &raquo;](../policies.md#WORKSHOP_HALF_POL-08)
+* Complete compliance training for event staff [View Details &raquo;](../policies.md#WORKSHOP_HALF_POL-09)
+* Run background checks for staff with significant access to youth [View Details &raquo;](../policies.md#WORKSHOP_HALF_POL-10)
+* Plan for CPR and first aid training [View Details &raquo;](../policies.md#WORKSHOP_HALF_POL-11)
+* Stock first aid supplies [View Details &raquo;](../policies.md#WORKSHOP_HALF_POL-12)
+* Write an emergency plan [View Details &raquo;](../policies.md#WORKSHOP_HALF_POL-13)
+* Plan enough time for background checks and training [View Details &raquo;](../policies.md#WORKSHOP_HALF_POL-17)
+### Accessibility and inclusion
+* Ask every student what support they need to succeed [View Details &raquo;](../accessibility.md#WORKSHOP_HALF_ACC-01)
+* Build in flexibility and universal design [View Details &raquo;](../accessibility.md#WORKSHOP_HALF_ACC-02)
+* Do not label part of the program as 'for people with disabilities' [View Details &raquo;](../accessibility.md#WORKSHOP_HALF_ACC-03)
+* Plan accommodations at least 6 to 8 weeks before the start [View Details &raquo;](../accessibility.md#WORKSHOP_HALF_ACC-04)
+* Check physical access, assistive technology, and internet access [View Details &raquo;](../accessibility.md#WORKSHOP_HALF_ACC-05)
+* Find advocates in the school [View Details &raquo;](../accessibility.md#WORKSHOP_HALF_ACC-06)
+* Plan group pairings without singling anyone out [View Details &raquo;](../accessibility.md#WORKSHOP_HALF_ACC-07)
+* Reduce barriers to participation [View Details &raquo;](../accessibility.md#WORKSHOP_HALF_ACC-09)
+* Make clear in your advertising that everyone is welcome [View Details &raquo;](../accessibility.md#WORKSHOP_HALF_ACC-10)
+### Evaluation and impact
+* Plan pre and post surveys [View Details &raquo;](../evaluation.md#WORKSHOP_HALF_EVL-01)
+* Collect stories and quotes to report impact [View Details &raquo;](../evaluation.md#WORKSHOP_HALF_EVL-02)
+* Plan how and to whom you will report results [View Details &raquo;](../evaluation.md#WORKSHOP_HALF_EVL-03)
+### Advertising and communications
+* Use teachers, counselors, and district channels [View Details &raquo;](../advertising.md#WORKSHOP_HALF_ADV-01)
+* Ask your campus pre-college or marketing office to advertise [View Details &raquo;](../advertising.md#WORKSHOP_HALF_ADV-02)
+* Choose one person to communicate with parents [View Details &raquo;](../advertising.md#WORKSHOP_HALF_ADV-03)
+* Create a flyer and plan outreach [View Details &raquo;](../advertising.md#WORKSHOP_HALF_ADV-04)
+* Plan how to handle more applicants than spots [View Details &raquo;](../advertising.md#WORKSHOP_HALF_ADV-05)
+
+
+## Downloadable Spreadsheet
+
+All of the above items can be found in a spreadsheet that you are welcome to copy, edit, and print off to have everything in one easy-to-access location.
+
+[Go To Spreadsheet](https://docs.google.com/spreadsheets/d/1A3ZGsZRocETnnPJa1SOlJ01ckIeL47F012ZBpqPV1iA/edit?gid=1896611943#gid=1896611943&fvid=345026207){target="_blank" .md-button}

@@ -1,0 +1,11 @@
+/*
+* Extra Styles
+*/
+
+/* Highlight the selected section - important for making it easier to find which checklist item was selected */
+
+.checklist-item-details:has(h3:target) {
+    background-color: lightgray;
+    padding-left: .25em;
+    border-left: 2px solid #333333;
+}
