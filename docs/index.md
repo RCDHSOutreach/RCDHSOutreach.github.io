@@ -1,6 +1,6 @@
-# Toolkit for HPC High School Outreach
+# Toolkit for RCD High School Outreach
 
-A starting point for research computing staff who want to bring high-performance computing to high school students.
+A starting point for research computing and computing (RCD) staff who want to bring high-performance computing to high school students.
 
 ## Welcome
 
@@ -67,3 +67,6 @@ This project is part of the Midwest Research Computing and Data Emerging Leaders
 ## Quick Links
 
 [Checklist: Start Small](./checklists/start-small.md){.md-button .md-button--primary target="_blank"} | [Downloadable Spreadsheet](https://docs.google.com/spreadsheets/d/1A3ZGsZRocETnnPJa1SOlJ01ckIeL47F012ZBpqPV1iA/edit?usp=sharing){.md-button .md-button--primary target="_blank"}
+
+*[RCD]: Research Computing and Data
+*[HPC]: High-Performance Computing
