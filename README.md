@@ -1,4 +1,4 @@
-# MWRCD Capstone Project
+# Toolkit for HPC High School Outreach
 
 Current Zensical Version: 0.0.51
 
