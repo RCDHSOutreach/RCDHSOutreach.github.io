@@ -5,14 +5,6 @@ hide:
 
 # Evaluation and Impact
 
-## Overview
-
-Info Here
-
-## Best Practices
-
-Info Here
-
 ## By Program Type
 
 ### Half-day workshop
