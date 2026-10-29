@@ -2,6 +2,9 @@
 # Capstone Import Script
 #
 # This is a quick and dirty script to convert our checklist CSV to Markdown
+#   This ensures that our documentation site matches our spreadsheet.
+#
+# This script takes in a CSV file from the "HPC_Outreach_Checklist" spreadsheet.
 #
 
 import csv
@@ -72,39 +75,39 @@ pageMap = {
 # Import Mapping - Checklist
 programMap = {
     'START_SMALL': {
-        'csvIdx': 4,
+        'csvIdx': 5,
         'name': 'Start small',
         'file': 'start-small.md',
         'items': []
     },
     'CLASS_PRES': {
-        'csvIdx': 5,
+        'csvIdx': 6,
         'name': 'Class presentation',
         'file': 'class-presentation.md',
         'items': []
     },
     'WORKSHOP_HALF': {
-        'csvIdx': 6,
+        'csvIdx': 7,
         'name': 'Half-day workshop',
         'file': 'workshop.md',
         'items': []
     },
     'CAMP_MULTI': {
-        'csvIdx': 7,
+        'csvIdx': 8,
         'name': 'Multi-day camp (Day Only)',
         'file': 'camp-multi.md',
         'items': []
     },
     'CAMP_MULTI_OVERNIGHT': {
-        'csvIdx': 8,
+        'csvIdx': 9,
         'name': 'Multi-day camp (Overnight)',
         'file': 'camp-multi-overnight.md',
         'items': []
     }
 }
 
-# Generate the page
-def generatePage(itemType):
+# Generate the page for a category (i.e. Funding)
+def generateCategoryPage(itemType):
     pageData = pageMap[itemType]
 
     # Generate the item list in Markdown for page content
@@ -123,73 +126,11 @@ def generatePage(itemType):
         ## Loop through the items
         for itemData in pageData['items'][programType]:
             pageItemMD += '\t<div class="checklist-item-details" markdown>\n'
-            pageItemMD += '\t#### ' + itemData[2] + ' {#' + programType + '_' + itemData[0] + '}\n'
-            pageItemMD += '\t**Example**: ' + itemData[3] + '\n'
+            pageItemMD += '\t#### ' + itemData[3] + ' {#' + programType + '_' + itemData[1] + '}\n'
+            pageItemMD += '\t**Example**: ' + itemData[4] + '\n'
             pageItemMD += '\t</div>\n'
             pageItemMD += '\t---\n'
             pageItemMD += '\t\n'
-
-        # # Grab information about the program
-
-        # # Section Header
-        # pageItemMD += '## ' + itemData[0] + ': ' + itemData[2] + ' {#' + itemData[0] + '} \n'
-
-        # # Program Types
-        # programList = []
-
-        # # Which program types were "X" in the spreadsheet
-        # for programID in programMap:
-        #     if itemData[programMap[programID]['csvIdx']] == 'X':
-        #         programList.append(programMap[programID]['name'])
-
-        # pageItemMD += '\n **Programs**: ' + ', '.join(programList) + '\n'
-
-        # # Examples
-        # pageItemMD += '\n **Example**: ' + itemData[3] + '\n\n'
-
-
-    # Open the template file
-    tplfp = open('../templates/'+pageData['file'], 'r')
-
-    # Inject the Markdown into the template
-    pageFinalMD = tplfp.read().replace('{ITEM_LIST}', pageItemMD)
-
-    # Save the new file
-    docfp = open('../docs/'+pageData['file'], 'w')
-    docfp.write(pageFinalMD)
-
-    # Close our files
-    tplfp.close()
-    docfp.close()
-
-# Generate the page
-def generatePageOLD(itemType):
-    pageData = pageMap[itemType]
-
-    # Generate the item list in Markdown for page content
-    pageItemMD = ''
-
-    # Items
-    for itemData in pageData['items']:
-
-        # Grab information about the program
-
-        # Section Header
-        pageItemMD += '## ' + itemData[0] + ': ' + itemData[2] + ' {#' + itemData[0] + '} \n'
-
-        # Program Types
-        programList = []
-
-        # Which program types were "X" in the spreadsheet
-        for programID in programMap:
-            if itemData[programMap[programID]['csvIdx']] == 'X':
-                programList.append(programMap[programID]['name'])
-
-        pageItemMD += '\n **Programs**: ' + ', '.join(programList) + '\n'
-
-        # Examples
-        pageItemMD += '\n **Example**: ' + itemData[3] + '\n\n'
-
 
     # Open the template file
     tplfp = open('../templates/'+pageData['file'], 'r')
@@ -205,8 +146,8 @@ def generatePageOLD(itemType):
     tplfp.close()
     docfp.close()
     
-# Generate Checklist
-def generateChecklist():
+# Generate the page for a program (i.e. Start Small)
+def generateProgramPage():
 
     # Loop through each program type to build their checklist.
     # - We then replace the variable with our new list.
@@ -230,7 +171,7 @@ def generateChecklist():
         for item in programData['items']:
 
             # Which type is this
-            itemType = item[0][0:3]
+            itemType = item[1][0:3]
             itemTypeData = pageMap[itemType]
 
             # Show the section
@@ -238,7 +179,7 @@ def generateChecklist():
                 programItemMD += '### ' + itemTypeData['name']+'\n'
 
             # List the item
-            programItemMD += '* ' + item[2]+ ' [View Details &raquo;](../' + itemTypeData['file']+'#' + programID + '_' + item[0]+')\n'
+            programItemMD += '* ' + item[3]+ ' [View Details &raquo;](../' + itemTypeData['file']+'#' + programID + '_' + item[1]+')\n'
 
             curItemType = itemType
 
@@ -269,8 +210,8 @@ with open(IMPORT_FILE, 'r') as csvFile:
             continue
         
         # Figure out which page this row relates to.
-        itemType = row[0][0:3]
-        itemName = row[2]
+        itemType = row[1][0:3]
+        itemName = row[3]
 
         print(itemType + ' - ' + itemName)
 
@@ -296,8 +237,8 @@ with open(IMPORT_FILE, 'r') as csvFile:
     # Generate our pages
     for pageType in pageMap:
         print('Generating ' + pageType)
-        generatePage(pageType)
+        generateCategoryPage(pageType)
 
     # Generate our checklist
-    print('Generating checklists')
-    generateChecklist()
+    print('Generating the page by program (i.e. Start Small)hecklists')
+    generateProgramPage()
