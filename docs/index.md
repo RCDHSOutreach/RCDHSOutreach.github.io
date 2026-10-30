@@ -14,7 +14,7 @@ Our project focuses on high school students. Many of them are beginning to think
 
 1. **Read the Start Small checklist.** It walks you through the foundational items for a first program with limited budget and staffing. [View Page &raquo;](./checklists/start-small.md)
 2. **Choose an activity type.** Pick the checklist in the site navigation that fits your program: class presentation, half-day workshop, multi-day camp (students home at night), or multi-day camp (students on campus at night). 
-3. **Plan your timeline.** Our sample planning calendar shows what to work on in the 12 months before your program starts. *(link coming soon)*
+3. **Plan your timeline.** Our sample planning calendar shows what to work on in the 12 months before your program starts.
 
 **Note:** Policies differ by campus. We recommend planning early and contacting offices on your campus for specific details.
 
@@ -22,7 +22,7 @@ Our project focuses on high school students. Many of them are beginning to think
 
 - **Checklists** for each activity type, with examples from research computing units that have run these programs.
 - **A sample checklist spreadsheet** (Excel) that you can download and adapt for your own program. [View Spreadsheet &raquo;](https://docs.google.com/spreadsheets/d/1A3ZGsZRocETnnPJa1SOlJ01ckIeL47F012ZBpqPV1iA/edit?usp=sharing){target="_blank"}
-- **A planning calendar** (Excel) that you can copy and customize. 
+- **A planning calendar** (Excel) that you can copy and customize.  [View Sample Timeline &raquo;](https://docs.google.com/spreadsheets/d/18jytmsRIxkcEeMoYJPBH23-a5sFi-ONB/edit?usp=sharing&ouid=117786030397593067837&rtpof=true&sd=true){target="_blank"}
 - **A section on best practices** for organizing activities.
 
 ## What are HPC outreach activities?
@@ -66,7 +66,7 @@ This project is part of the Midwest Research Computing and Data Emerging Leaders
 
 ## Quick Links
 
-[Checklist: Start Small](./checklists/start-small.md){.md-button .md-button--primary target="_blank"} | [Downloadable Spreadsheet](https://docs.google.com/spreadsheets/d/1A3ZGsZRocETnnPJa1SOlJ01ckIeL47F012ZBpqPV1iA/edit?usp=sharing){.md-button .md-button--primary target="_blank"}
+[Checklist: Start Small](./checklists/start-small.md){.md-button .md-button--primary target="_blank"} | [Downloadable Guidelines](https://docs.google.com/spreadsheets/d/1A3ZGsZRocETnnPJa1SOlJ01ckIeL47F012ZBpqPV1iA/edit?usp=sharing){.md-button .md-button--primary target="_blank"} | [Downloadable Sample Timeline](https://docs.google.com/spreadsheets/d/18jytmsRIxkcEeMoYJPBH23-a5sFi-ONB/edit?usp=sharing&ouid=117786030397593067837&rtpof=true&sd=true){.md-button .md-button--primary target="_blank"}
 
 *[RCD]: Research Computing and Data
 *[HPC]: High-Performance Computing
